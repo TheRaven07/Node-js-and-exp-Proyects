@@ -1,0 +1,21 @@
+{
+  "name": "grid",
+  "version": "1.0.0",
+  "description": "Practica de grid Css",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "grid"
+  ],
+  "author": "EumT07",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

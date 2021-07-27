@@ -1,0 +1,1 @@
+font-family: 'Otomanopee One', sans-serif;

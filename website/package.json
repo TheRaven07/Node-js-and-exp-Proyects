@@ -1,0 +1,24 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Practica servidor node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "node",
+    "html",
+    "css"
+  ],
+  "author": "Eublan Mata",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
